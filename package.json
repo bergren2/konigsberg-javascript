@@ -6,12 +6,12 @@
   "scripts": {
     "test": "mocha"
   },
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bergren2/konigsberg-javascript.git"
   },
   "author": "Dan Bergren",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/bergren2/konigsberg-javascript/issues"
   },
