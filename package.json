@@ -1,0 +1,22 @@
+{
+  "name": "konigsberg-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bergren2/konigsberg-javascript.git"
+  },
+  "author": "Dan Bergren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bergren2/konigsberg-javascript/issues"
+  },
+  "homepage": "https://github.com/bergren2/konigsberg-javascript#readme",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
